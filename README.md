@@ -15,7 +15,7 @@ The list might change in the future.
 
 <table align="center">
 <tr>
-<th colspan="5">Legend</th>
+<th colspan="5">Status Legend</th>
 </tr>
 <tr>
 <th>Icon</th>
