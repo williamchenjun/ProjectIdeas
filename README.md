@@ -1,6 +1,8 @@
 # :clipboard: Project ideas at different levels
 
-This repository is for personal use mostly, however, anyone can take inspiration from the ideas suggested here! If you want to collaborate on certain projects, feel free to just contact me or write in the discussions. If you have any questions about certain projects, whether you want to collab or work on it on your own, feel free to ask in the repository.
+This repository is for personal use mostly, however, anyone can take inspiration from the ideas suggested here! If you want to collaborate on certain projects, feel free to just contact me or write in the discussions. If you have any questions about certain projects, whether you want to collab or work on it on your own, feel free to ask in the discussions page.
+
+I will create a new discussion for each proposed project withe the same title as in the table below. So if you want to look up the thread, just search the project name in discussions!
 
 ## :memo: The Languages
 
