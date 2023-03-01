@@ -44,7 +44,7 @@ The list might change in the future.
 </tr>
 
 <tr>
-<td><a href="" target="_blank">Pacman MDP</a></td>
+<td><a href="/" target="_blank">Pacman MDP</a></td>
 <td>Reinforcement learning algorithm for Pacman based on MDPs.</td>
 <td>Python</td>
 <td>Intermediate</td>
@@ -53,7 +53,7 @@ The list might change in the future.
 </tr>
 
 <tr>
-<td><a href="" target="_blank">Telegram Group Manager Bot</a></td>
+<td><a href="/" target="_blank">Telegram Group Manager Bot</a></td>
 <td>A bot to manage groupchats on Telegram (moderation commands).</td>
 <td>Python/PHP</td>
 <td>Intermediate</td>
@@ -71,7 +71,7 @@ The list might change in the future.
 </tr>
 
 <tr>
-<td><a href="" target="_blank">Wave Collapse Function</a></td>
+<td><a href="/" target="_blank">Wave Collapse Function</a></td>
 <td>Write a wave collapse algorithm.</td>
 <td>Python or C#</td>
 <td>Intermediate</td>
