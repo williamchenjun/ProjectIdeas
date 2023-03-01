@@ -38,6 +38,7 @@ The list might change in the future.
 <table align="center">
 <tr>
 <th>Project Name</th>
+<th>Discussion</th>
 <th>Project Description</th>
 <th>Language</th>
 <th>Level</th>
@@ -47,6 +48,7 @@ The list might change in the future.
 
 <tr>
 <td><a href="/" target="_blank">Pacman MDP</a></td>
+<td><a href="" target="_blank">:link:</a></td>
 <td>Reinforcement learning algorithm for Pacman based on MDPs.</td>
 <td>Python</td>
 <td>Intermediate</td>
@@ -56,6 +58,7 @@ The list might change in the future.
 
 <tr>
 <td><a href="/" target="_blank">Telegram Group Manager Bot</a></td>
+<td><a href="" target="_blank">:link:</a></td>
 <td>A bot to manage groupchats on Telegram (moderation commands).</td>
 <td>Python/PHP</td>
 <td>Intermediate</td>
@@ -65,6 +68,7 @@ The list might change in the future.
 
 <tr>
 <td><a href="https://github.com/williamchenjun/MNIST-Handwritten-Digits-CNN" target="_blank">Handwritten Digit Recognition</a></td>
+<td><a href="" target="_blank">:link:</a></td>
 <td>Train a neural network to unseen recognise handwritten digits.</td>
 <td>Python</td>
 <td>Intermediate</td>
@@ -74,6 +78,7 @@ The list might change in the future.
 
 <tr>
 <td><a href="/" target="_blank">Wave Function Collapse</a></td>
+<td><a href="https://github.com/williamchenjun/ProjectIdeas/discussions/2" target="_blank">:link:</a></td>
 <td>Write a wave function collapse algorithm.</td>
 <td>Python or C#</td>
 <td>Intermediate</td>
