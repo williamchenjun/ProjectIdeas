@@ -85,7 +85,7 @@ The list might change in the future.
 <td>:construction:</td>
 <td>
     <a href="https://www.youtube.com/watch?v=rI_y2GAlQFM" target="_blank">I</a>&nbsp;
-    <a href="https://www.youtube.com/watch?v=TO0Tx3w5abQ&t=257s" target="_blank">II</a>
+    <a href="https://www.youtube.com/watch?v=TO0Tx3w5abQ" target="_blank">II</a>
 </td>
 </tr>
 
