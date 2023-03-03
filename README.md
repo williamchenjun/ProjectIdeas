@@ -75,7 +75,7 @@ The list might change in the future.
 <td>Train a neural network to unseen recognise handwritten digits.</td>
 <td>Python</td>
 <td>Intermediate</td>
-<td>:white_check_mark:</td>
+<td>:disguised_face:</td>
 <td><a href="https://www.youtube.com/@SebastianLague" target="_blank">I</a></td>
 </tr>
 
